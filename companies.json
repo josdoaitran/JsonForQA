@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "companyName": "ABC",
+    "companyType": "small",
+    "info":{
+        "site": "https://abc.com",
+        "phone": "09648396743"
+    },
+    "protperties": [
+      {
+        "employeeNumber": "30-100",
+        "officeNumber": "1",
+        "shareStock": true,
+        "group": false
+      }
+    ],
+    "rate": "1.5"
+  },
+  {
+    "id": "2",
+    "companyName": "Freedom for everyone",
+    "companyType": "medium",
+    "info":{
+        "site": "https://freedom.for.everyone",
+        "phone": "090876543"
+    },
+    "protperties": [
+      {
+        "employeeNumber": "300-500",
+        "officeNumber": "5",
+        "shareStock": true,
+        "group": false
+      }
+    ],
+    "rate": "1.5"
+  }
+]
